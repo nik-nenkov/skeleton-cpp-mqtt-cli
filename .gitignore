@@ -1,0 +1,7 @@
+/.idea/
+/bin/
+/obj/
+/skeleton-cpp-mqtt-cli.cbp
+/skeleton-cpp-mqtt-cli.depend
+/skeleton-cpp-mqtt-cli.layout
+/main.o
